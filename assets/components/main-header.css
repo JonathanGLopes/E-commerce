@@ -1,0 +1,27 @@
+.main-header{
+    font-family: 'Alata', sans-serif;
+    background-image: url(/assets/img/desktop/image-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+}
+
+.navigation li {
+    margin-left: 2rem;
+}
+
+.navigation li:first-child{
+    margin-left: 0;
+}
+
+.navigation li:hover{
+    color: white;
+}
