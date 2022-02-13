@@ -1,5 +1,5 @@
 .main-header{
-    font-family: 'Alata', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     background-image: url(/assets/img/desktop/image-hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -7,6 +7,13 @@
     display: flex;
     justify-content: space-around;
     padding: 3rem;
+    align-items: flex-end;
+}
+
+.main-title {
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: 600;
 }
 
 .navigation {
@@ -16,12 +23,17 @@
 
 .navigation li {
     margin-left: 2rem;
+    color: #fff;
+    font-weight: 600;
 }
 
 .navigation li:first-child{
     margin-left: 0;
 }
 
-.navigation li:hover{
+.header-description {
+    font-size: 3rem;
     color: white;
+    padding: 1rem;
+    border: 1px solid #fff;
 }
