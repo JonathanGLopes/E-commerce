@@ -1,0 +1,28 @@
+.banner {
+    background-color: var(--marrom);
+}
+
+.main-header {
+    padding: 4rem 7.75rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-nav {
+    display: flex;
+    font-family: var(--fonte-principal);
+    font-weight: 500;
+    color: #fff;
+    font-size: 18px;
+}
+.main-nav li {
+    margin-left: 40px;
+}
+
+.main-nav li:first-child{
+    margin-left: 0;
+}
+
+.description-banner {
+    display: flex;
+}
