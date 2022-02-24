@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url(/assets/components/style.css);
+
+:root {
+    --laranja: #FF9A03;
+    --marrom: #432A2A;
+    --preto: #000;
+    --branco-card: #FAFAFA;
+    --fonte-principal: 'Poppins';
+}
