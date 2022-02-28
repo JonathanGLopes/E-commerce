@@ -9,14 +9,6 @@
     height: 372px;
 }
 
-.sobre-fundo {
-    z-index: -1;
-    position: absolute;
-    left: 26rem;
-    width: 362px;
-    height: 330px;
-}
-
 .sobre-detalhes {
     display: flex;
     flex-direction: column;
@@ -47,6 +39,7 @@
     display: flex;
     flex-direction: column;
     gap: .8rem;
+    margin-top: 1rem;
 }
 
 .sobre-icon {
