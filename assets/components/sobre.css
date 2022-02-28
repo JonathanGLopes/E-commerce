@@ -1,0 +1,60 @@
+.sobre {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 180px;
+
+}
+.sobre-banner {
+    width: 517px;
+    height: 372px;
+}
+
+.sobre-fundo {
+    z-index: -1;
+    position: absolute;
+    left: 26rem;
+    width: 362px;
+    height: 330px;
+}
+
+.sobre-detalhes {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.sobre-primeiro {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--laranja);
+}
+
+.main-title {  
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Poppins';
+}
+
+.sobre-descricao {
+    width: 494px;
+    font-family: 'Poppins';
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.sobre-lista {
+    display: flex;
+    flex-direction: column;
+    gap: .8rem;
+}
+
+.sobre-icon {
+    margin-right: 10px;
+}
+
+.sobre-pata {
+    position: absolute;
+    right: 250px;
+    top: 59rem;
+}
