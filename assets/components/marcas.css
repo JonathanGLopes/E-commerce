@@ -1,0 +1,10 @@
+.logo-marcas {
+    margin-top: 180px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+.logo-marca:first-child {
+    align-self: center;
+}
