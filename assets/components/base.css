@@ -3,6 +3,7 @@
 @import url(/assets/components/cards.css);
 @import url(/assets/components/sobre.css);
 @import url(/assets/components/marcas.css);
+@import url(/assets/components/destaque.css);
 
 :root {
     --laranja: #FF9A03;

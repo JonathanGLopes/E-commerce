@@ -1,0 +1,82 @@
+.destaques {
+    margin-top: 145px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.destaque-semana {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.destaque-racao {
+    width: 250px;
+    margin-top: 3rem;
+}
+
+.destaque-subtitle {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.destaque-descricao {
+    width: 264px;
+    font-size: 18px;
+    line-height: 27px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+.destaque-ver-mais {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--laranja);
+}
+
+/* CSS dos cards */
+.destaque-produtos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 1.25rem;
+}
+
+.destaque-card {
+    width: 217px;
+    height: 274px;
+    background-color: var(--branco-card);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.destaque-itens {
+    width: 94.82px;
+    height: 138px;
+    align-self: center;
+}
+
+.item-titulo {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 10px;
+    color: var(--cinza);
+}
+
+.item-descricao{
+    font-family: 'Poppins';
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.item-valor {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--laranja);
+}
