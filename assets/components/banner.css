@@ -1,0 +1,50 @@
+.banner-frete {
+    display: flex;
+    background-color: var(--laranja);
+    width: 80%;
+    height: 267px;
+    margin: 0 auto;
+    border-radius: .8rem;
+    margin-top: 11rem;
+    justify-content: center;
+}
+
+.banner-dog {
+    width: 338px;
+}
+
+.banner-descricao {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.banner-titulo {
+    font-size: 48px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    color: #FFF;
+    width: 284px;
+}
+
+.banner-titulo:last-child{
+    color: #FFF;
+}
+
+.banner-span-valor {
+    color: var(--marrom);
+}
+
+.banner-span {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.banner-texto {
+    font-family: 'Poppins';
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFF;
+    width: 383px;
+    text-align: center;
+}

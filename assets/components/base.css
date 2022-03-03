@@ -4,6 +4,7 @@
 @import url(/assets/components/sobre.css);
 @import url(/assets/components/marcas.css);
 @import url(/assets/components/destaque.css);
+@import url(/assets/components/banner.css);
 
 :root {
     --laranja: #FF9A03;
