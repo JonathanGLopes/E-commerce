@@ -65,3 +65,13 @@
     height: 61px;
     border: none;
 }
+
+#btnTop {
+    background-color: var(--laranja);
+    border: none;
+    padding: 1rem;
+    border-radius: 1rem;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
