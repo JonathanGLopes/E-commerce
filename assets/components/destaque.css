@@ -80,3 +80,7 @@
     font-size: 18px;
     color: var(--laranja);
 }
+
+.item-titulo, .item-descricao, .item-valor {
+    text-align: center;
+}
