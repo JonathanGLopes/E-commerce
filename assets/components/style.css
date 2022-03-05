@@ -1,5 +1,6 @@
 #header {
     background-color: var(--marrom);
+    width: 100%;
 }
 
 .header-area {
@@ -64,6 +65,7 @@
     width: 240px;
     height: 61px;
     border: none;
+    cursor: pointer;
 }
 
 #btnTop {
