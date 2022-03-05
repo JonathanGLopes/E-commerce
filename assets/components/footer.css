@@ -1,0 +1,45 @@
+.main-footer {
+    margin-top: 100px;
+    background-color: var(--marrom);
+    width: 100%;
+    display: grid;
+    padding: 3rem 0 1.5rem 0;
+    gap: 5rem;
+}
+
+.wrap-footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo-footer {
+    width: 142px;
+    justify-self: center;
+}
+
+.footer-address, .footer-telefone, .footer-horario {
+    display: flex;
+    align-items: center;
+}
+
+.footer-text {
+    color: #fff;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 500;
+    width: 270px;
+    margin-left: 1rem;
+    line-height: 27px;
+}
+
+.creditos {
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 14px;
+    color: gray;
+}
+
+.credito-nome {
+    font-weight: 700;
+    color: #fff;
+}
