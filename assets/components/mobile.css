@@ -1,0 +1,41 @@
+@media (max-width: 720px) {
+
+    .header-area {
+        padding: 4rem 2rem;
+    }
+
+    .descricao-primaria {
+        font-size: 1.8rem;
+        text-align: left;
+        width: 20rem;
+        line-height: 2.5rem;
+    }
+
+    .descricao-banner{
+        font-size: 1.1rem;
+        text-align: left;
+        width: 20rem;
+        
+    }
+
+    .main-nav {
+        display: none;
+    }
+
+    .banner {
+        padding-bottom: 2rem;
+        border-bottom-right-radius: 1.5rem;
+        border-bottom-left-radius: 1.5rem;
+    }
+
+    .button-produtos {
+        width: 15rem;
+        font-size: 1rem;
+        font-family: 'Poppins', sans-serif;
+        margin: 0 auto;
+    }
+
+    .dog-banner {
+        display: none;
+    }
+}
