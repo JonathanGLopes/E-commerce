@@ -2,6 +2,8 @@
 
     .header-area {
         padding: 4rem 2rem;
+        display: flex;
+        justify-content: space-between;
     }
 
     .descricao-primaria {
@@ -18,7 +20,11 @@
         
     }
 
-    .main-nav {
+    .menu-mobile {
+        width: 2rem;
+    }
+
+    .navbar {
         display: none;
     }
 
