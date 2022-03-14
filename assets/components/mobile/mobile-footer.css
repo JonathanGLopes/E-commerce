@@ -1,0 +1,14 @@
+@media (max-width: 720px) {
+    .main-footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .wrap-footer {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+}
