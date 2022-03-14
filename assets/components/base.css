@@ -10,6 +10,7 @@
 @import url(/assets/components/mobile/mobile-cards.css);
 @import url(/assets/components/mobile/mobile-sobre.css);
 @import url(/assets/components/mobile/mobile-destaques.css);
+@import url(/assets/components/mobile/mobile-banner-frete.css);
 
 :root {
     --laranja: #FF9A03;

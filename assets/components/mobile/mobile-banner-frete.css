@@ -1,0 +1,36 @@
+@media (max-width: 720px) {
+    .banner-frete {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    .banner-dog {
+        width: 250px;
+        align-self: flex-end;
+        position: absolute;
+        left: -15px;
+    }
+
+    .banner-pata-mobile {
+        width: 8rem;
+        position: absolute;
+        left: 13rem;
+        align-self: flex-start;
+        justify-content: flex-start;
+    }
+    
+    .banner-titulo {
+        font-size: 1.3rem;
+        width: 150px;
+    }
+
+    .banner-span {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .banner-texto {
+        display: none;
+    }
+}
