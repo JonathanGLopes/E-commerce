@@ -1,0 +1,16 @@
+@media (max-width: 720px) {
+   .cards {
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       gap: 1rem;
+       margin-top: 100px;
+   }
+
+   .card-pata {
+       position: absolute;
+       left: -30px;
+       top: 33rem;
+   }
+}
