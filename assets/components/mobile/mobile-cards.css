@@ -9,8 +9,6 @@
    }
 
    .card-pata {
-       position: absolute;
-       left: -30px;
-       top: 33rem;
+       display: none;
    }
 }
