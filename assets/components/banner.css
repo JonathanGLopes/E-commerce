@@ -48,3 +48,7 @@
     width: 383px;
     text-align: center;
 }
+
+.banner-pata-mobile {
+    display: none;
+}
