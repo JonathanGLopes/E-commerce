@@ -1,0 +1,37 @@
+@media (max-width: 720px) {
+    .sobre {
+        margin-top: 100px;
+    }
+
+    .sobre-pata {
+        display: none;
+    }
+    
+    .sobre-banner {
+        display: none;
+    }
+
+    .sobre-detalhes {
+        text-align: left;
+        max-width: 490px;
+        margin: 0 auto;
+        font-family: 'Poppins';
+    }
+
+    .main-title {
+        font-size: 1.5rem;
+    }
+    
+    .sobre-descricao{
+        font-size: 1rem;
+        width: 300px;
+    }
+
+    .sobre-lista {
+        align-self: flex-start;
+    }
+
+    .logo-marcas {
+        display: none;
+    }
+}
