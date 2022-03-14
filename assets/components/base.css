@@ -6,7 +6,8 @@
 @import url(/assets/components/destaque.css);
 @import url(/assets/components/banner.css);
 @import url(/assets/components/footer.css);
-@import url(/assets/components/mobile-header.css);
+@import url(/assets/components/mobile/mobile-header.css);
+@import url(/assets/components/mobile/mobile-cards.css);
 
 :root {
     --laranja: #FF9A03;
