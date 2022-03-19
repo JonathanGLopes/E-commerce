@@ -1,0 +1,21 @@
+@media (max-width: 768px) {
+    .main-nav {
+        display: flex;
+    }
+
+    .navbar {
+        position: fixed;
+        left: -120%;
+        top: 120px;
+        flex-direction: column;
+        gap: 0;
+        padding: 2rem;
+        background-color: black;
+        transition: 0.3s ease;
+        width: 100%;
+    }
+
+    .nav-active {
+        left: 0;
+    }
+}
