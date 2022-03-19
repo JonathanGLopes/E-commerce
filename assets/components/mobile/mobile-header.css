@@ -25,10 +25,6 @@
         display: block;
     }
 
-    .navbar {
-        display: none;
-    }
-
     .banner {
         padding-bottom: 2rem;
         border-bottom-right-radius: 1.5rem;
