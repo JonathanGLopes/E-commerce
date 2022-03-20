@@ -1,21 +1,26 @@
 @media (max-width: 768px) {
     .main-nav {
         display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        text-align: center;
+    }
+
+    .main-nav li {
+        margin: 0;
     }
 
     .navbar {
         position: fixed;
-        left: -120%;
+        right: -120%;
         top: 120px;
-        flex-direction: column;
-        gap: 0;
-        padding: 2rem;
-        background-color: black;
+        padding: 2rem 0;
+        background-color: var(--marrom);
         transition: 0.3s ease;
         width: 100%;
     }
 
     .nav-active {
-        left: 0;
+        right: 0;
     }
 }
