@@ -22,5 +22,7 @@
 
     .nav-active {
         right: 0;
+        position:absolute;
+        top: 120px;
     }
 }
