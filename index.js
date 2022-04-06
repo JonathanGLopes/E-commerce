@@ -4,7 +4,7 @@ const $navBar = document.querySelector(".navbar");
 
 
 $btnMenu.addEventListener("click", () => {
-    $navBar.classList.add("nav-active")
+    $navBar.classList.toggle("nav-active")
 });
 
 document.querySelectorAll(".nav-link").forEach(n => n. addEventListener("click", () => {
