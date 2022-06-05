@@ -19,3 +19,8 @@ Praticar os principais recursos de HTML, CSS e JavaScript. Entre eles:
 <li> Semântica </li>
 <li> DOM </li>
 <li> Responsividade </li>
+
+<h3> Versão Desktop </h3>
+<img src="https://user-images.githubusercontent.com/93101033/172069787-acf9a2f0-94fe-4999-8c99-d02737accce7.png">
+
+
