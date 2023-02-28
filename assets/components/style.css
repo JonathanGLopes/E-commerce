@@ -28,6 +28,11 @@
     margin-left: 0;
 }
 
+.nav-link:hover {
+    color: var(--laranja);
+    transition: 200ms ease-in-out;
+}
+
 .banner {
     display: flex;
     justify-content: space-evenly;
