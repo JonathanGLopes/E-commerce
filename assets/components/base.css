@@ -22,3 +22,12 @@
     --branco-card: #FAFAFA;
     --fonte-principal: 'Poppins';
 }
+
+::-webkit-scrollbar{
+    width: 16px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 35px;
+    background-color: var(--laranja);
+}
