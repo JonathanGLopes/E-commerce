@@ -16,8 +16,7 @@ Petfood é um site de comércio eletrônico fictício focado em produtos para an
 
 Praticar os principais recursos de HTML, CSS e JavaScript. Entre eles:
 
-<li> Semântica </li>
-<li> DOM </li>
+<li> Manupilação do DOM </li>
 <li> Responsividade </li>
 
 ### Capturas de tela
